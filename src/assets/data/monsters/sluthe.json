@@ -1,0 +1,10 @@
+{
+  "name": "sluthe",
+  "stats": {
+    "attack": 1,
+    "defense": 2,
+    "health": 5
+  },
+  "weaknesses": ["fighter"],
+  "fame": 1
+}

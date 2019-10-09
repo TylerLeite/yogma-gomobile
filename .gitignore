@@ -1,0 +1,8 @@
+.DS_Store
+*.xcf
+*.ysv
+
+src/src
+src.apk
+
+build/

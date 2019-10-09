@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "price": 10,
+  "fame": 1,
+  "revenue": {
+    "default": 1,
+    "fighter": 0,
+  },
+  "buildTime": 50,
+  "health": 100,
+  "repairCost": 0.05,
+  "repairRate": 10,
+  "hotkey": 65
+}

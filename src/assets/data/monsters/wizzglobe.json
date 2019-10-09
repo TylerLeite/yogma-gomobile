@@ -1,0 +1,10 @@
+{
+  "name": "wizzglobe",
+  "stats": {
+    "attack": 3,
+    "defense": 0,
+    "health": 2
+  },
+  "weaknesses": [],
+  "fame": 1
+}

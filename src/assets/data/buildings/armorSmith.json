@@ -1,0 +1,14 @@
+{
+  "name": "armorSmith",
+  "price": 60,
+  "fame": 3,
+  "revenue": {
+    "default": 0,
+    "fighter": 10,
+  },
+  "buildTime": 100,
+  "health": 500,
+  "repairCost": 0.5,
+  "repairRate": 15,
+  "hotkey": 87
+}

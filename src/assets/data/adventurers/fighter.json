@@ -1,0 +1,17 @@
+{
+  "name": "fighter",
+  "stats": {
+    "attack": 2,
+    "defense": 1,
+    "health": 15,
+  },
+  "weaknesses": ["wizzglobe"],
+  "arrivalChances": {
+    "weaponSmith": 0.1,
+    "armorSmith": 0.1
+  },
+  "stayChances": {
+    "barracks": 0.2
+  },
+  "fame": 1
+}
